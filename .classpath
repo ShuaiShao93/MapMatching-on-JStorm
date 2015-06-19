@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/activation.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/ezmorph.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jline.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jms.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jmxri.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jmxtools.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jopt-simple.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/json-lib-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jstorm-client-0.9.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jstorm-client-extension-0.9.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jstorm-server-0.9.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/kafka_2.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/metrics-core.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/postgresql.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/snappy-java.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/xmemcached.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/zkclient.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/zookeeper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_15"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/JyNI-2.7-alpha.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/jython.jar"/>
+	<classpathentry kind="lib" path="D:/graduation project/mapmatching/mapmatching/lib/JyNI-2.7-alpha.2.3-bin-64"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
